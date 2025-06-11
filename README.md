@@ -6,11 +6,11 @@ Physiology Academy is an open-source, nonprofit educational platform dedicated t
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/pra3torian89/physiology-academy)
+![GitHub repo size](https://img.shields.io/github/repo-size/pra3torian89/physiology-academy)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pra3torian89/physiology-academy)
 ![GitHub forks](https://img.shields.io/github/forks/pra3torian89/physiology-academy)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/pra3torian89/physiology-academy)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/pra3torian89/physiology-academy)
-![GitHub License](https://img.shields.io/github/license/pra3torian89/physiology-academy)
 
 </div>
 
@@ -65,10 +65,10 @@ We welcome contributions from:
 ### To Contribute:
 
 1. Fork this repository
-2. Clone your fork: 'git clone https://github.com/pra3torian89/physiology-academy.git'
-3. Create a feature branch: 'git checkout -b new-feature-name'
+2. Clone your fork: `git clone https://github.com/pra3torian89/physiology-academy.git`
+3. Create a feature branch: `git checkout -b new-feature-name`
 4. Make your changes
-5. Commit and push: 'git commit -m "Add: feature name"' the 'git push origin branch-name'
+5. Commit and push: `git commit -m "Add: feature name"' the 'git push origin branch-name`
 6. Open a Pull Request
 
 ---
@@ -126,4 +126,4 @@ Have questions, ideas, or want to collaborate?
 
 If you find this project helpful or inspiring, give us a star on GitHub and share with your fellow scientists, educators, and students!
 
-Join our Discord Community! (comming soon)
+<p>Join our Discord Community! (comming soon)</p>
