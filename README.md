@@ -5,7 +5,7 @@ Physiology Academy is an open-source, nonprofit educational platform dedicated t
 ---
 
 ## About
-**Physiology Academy is an educational website offering topic-based lessons in 
+**Physiology Academy** is an educational website offering topic-based lessons in 
 - Cellular, Neuro, Cardiovascular, Renal, Respiratory, Gastrointestinal, Endocrine, Environmental, Aerospace, Exercise, Sleep, and Comparitive Physiology.
 
 The platform is designed with:
@@ -28,13 +28,13 @@ This GitHub repository hosts:
 
 ### Repo Structure
 /
-├── curriculum/           # Educational content
-├── frontend/             # React or static site code
-├── backend/              # Server logic (Node, Django, etc.)
-├── quizzes/              # JSON or YAML quiz data
-├── assets/               # Images, diagrams, icons
-├── LICENSE-code.txt      # MIT license for code
-├── LICENSE-content.txt   # CC BY-NC 4.0 for content
+├── curriculum/           # Educational content<br>
+├── frontend/             # React or static site code<br>
+├── backend/              # Server logic (Node, Django, etc.)<br>
+├── quizzes/              # JSON or YAML quiz data<br>
+├── assets/               # Images, diagrams, icons<br>
+├── LICENSE-code.txt      # MIT license for code<br>
+├── LICENSE-content.txt   # CC BY-NC 4.0 for content<br>
 ├── README.md             # This file
 
 ---
@@ -113,4 +113,5 @@ Have questions, ideas, or want to collaborate?
 ## Stay Connected
 
 If you find this project helpful or inspiring, give us a star on GitHub and share with your fellow scientists, educators, and students!
+
 Join our Discord Community! (comming soon)
