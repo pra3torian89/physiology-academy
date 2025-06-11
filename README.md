@@ -1,4 +1,5 @@
 <div align="center">
+    
 # Physiology Academy
 
 Physiology Academy is an open-source, nonprofit educational platform dedicated to teaching **physiology and medicine** through interactive, clinically relevant lessons. Our mission is to make high-quality science education accessible, engaging, and gamified for learners around the world.
@@ -10,6 +11,7 @@ Physiology Academy is an open-source, nonprofit educational platform dedicated t
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/pra3torian89/physiology-academy)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/pra3torian89/physiology-academy)
 ![GitHub License](https://img.shields.io/github/license/pra3torian89/physiology-academy)
+
 </div>
 
 ---
