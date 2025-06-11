@@ -41,4 +41,3 @@ Or suggest your own improvement!
   ```bash
   git clone https://github.com/pra3torian89/physiology-academy.git
   cd physiology-academy
-```
