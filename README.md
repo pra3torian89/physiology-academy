@@ -114,8 +114,8 @@ If you'd like to support our mission to make science education free and accessib
 
 Have questions, ideas, or want to collaborate?
 
-    Andrew Wright, M.Sc., Founder<br>
-    Euclid, Ohio<br>
+    Andrew Wright, M.Sc., Founder
+    Euclid, Ohio
     awwright@protonmail.com
 
 
