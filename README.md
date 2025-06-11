@@ -114,11 +114,11 @@ If you'd like to support our mission to make science education free and accessib
 
 Have questions, ideas, or want to collaborate?
 
-<address>
-    Andrew Wright, M.Sc., Founder
-    Euclid, Ohio
+    Andrew Wright, M.Sc., Founder<br>
+    Euclid, Ohio<br>
     awwright@protonmail.com
-</address>
+
+
 - Website: www.physiologyacademy.com (coming soon)
 - GitHub Issues: [Submit a bug or feature](https://github.com/pra3torian89/physiology-academy/issues)
 <!-- Create a form for contributing content/code -->
@@ -130,4 +130,4 @@ Have questions, ideas, or want to collaborate?
 
 If you find this project helpful or inspiring, give us a star on GitHub and share with your fellow scientists, educators, and students!
 
-<p>Join our Discord Community! (comming soon)</p>
+<p>Join our Discord Community! (coming soon)</p>
