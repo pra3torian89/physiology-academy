@@ -6,9 +6,9 @@ Physiology Academy is an open-source, nonprofit educational platform dedicated t
 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/pra3torian89/physiology-academy)
+![GitHub forks](https://img.shields.io/github/forks/pra3torian89/physiology-academy)
 ![GitHub repo size](https://img.shields.io/github/repo-size/pra3torian89/physiology-academy)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/pra3torian89/physiology-academy)
-![GitHub forks](https://img.shields.io/github/forks/pra3torian89/physiology-academy)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/pra3torian89/physiology-academy)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-closed/pra3torian89/physiology-academy)
 
