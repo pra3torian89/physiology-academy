@@ -114,7 +114,11 @@ If you'd like to support our mission to make science education free and accessib
 
 Have questions, ideas, or want to collaborate?
 
-- Email: awwright@protonmail.com
+<address>
+    Andrew Wright, M.Sc., Founder
+    Euclid, Ohio
+    awwright@protonmail.com
+</address>
 - Website: www.physiologyacademy.com (coming soon)
 - GitHub Issues: [Submit a bug or feature](https://github.com/pra3torian89/physiology-academy/issues)
 <!-- Create a form for contributing content/code -->
